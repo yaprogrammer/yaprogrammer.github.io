@@ -1,7 +1,7 @@
 ---
 layout: post
 title: О нас
-permalink: /about
+permalink: /about/
 ---
 
 Интернет-издание. Пишем о фронтенде, бекенде, SEO, аналитике и новостях IT индустрии.
