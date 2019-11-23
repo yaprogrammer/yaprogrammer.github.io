@@ -8,6 +8,14 @@ permalink: /about/
 
 ## Читателям
 
-Подписывайтесь на нас [ВКонтакте](https://vk.com/yaprogrammer) и на [Яндекс.Дзене](https://zen.yandex.ru/user/988282664).
+
+- [ВКонтакте](https://vk.com/yaprogrammer)
+- [Telegram](https://tele.gs/yaprogrammer)
+- [Яндекс.Дзен](https://zen.yandex.ru/user/988282664)
+- [email рассылка](/subscribe)
 
 ## Авторам
+
+- [Ваши истории](/2019/ugs)
+- [Авторам](/2019/for-authors)
+- [Канал в телеге](https://tele.gs/yaprogrammerauthors)
