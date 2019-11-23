@@ -1,6 +1,7 @@
 ---
 title: Email подписка
 permalink: /subscribe/
+layout: post
 ---
 
 Вы можете подписаться на нашу email-рассылку интересных статей через форму ниже:
