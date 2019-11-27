@@ -58,6 +58,11 @@ footer,
   a {
     color: $white;
     font-family: $sans-serif;
+
+    &:hover,
+    &:focus {
+      opacity: .6;
+    }
   }
 }
 
