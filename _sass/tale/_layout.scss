@@ -66,6 +66,10 @@ footer,
     color: $white;
     font-family: $sans-serif;
   }
+
+  a:hover {
+    color: $default-tint;
+  }
 }
 
 .footer {
